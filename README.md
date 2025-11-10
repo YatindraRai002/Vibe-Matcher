@@ -30,12 +30,8 @@ This project demonstrates how AI can transform fashion discovery by understandin
    pip install openai pandas scikit-learn matplotlib seaborn python-dotenv numpy ipykernel
    ```
 
-3. **Set up OpenAI API key**:
-   - Get your API key from [OpenAI Platform](https://platform.openai.com/api-keys)
-   - Create a `.env` file in the project root
-   - Add your key: `OPENAI_API_KEY=your-api-key-here`
 
-4. **Run the notebook**:
+. **Run the notebook**:
    - Open `vibe_matcher.ipynb` in Jupyter or VS Code
    - Run all cells sequentially
 
@@ -73,14 +69,3 @@ Try these vibe queries:
 4. **Fine-tuning**: Train on fashion-specific corpus for better accuracy
 5. **User Feedback Loop**: Implement thumbs up/down for continuous improvement
 
-## 📝 License
-
-This project is for educational and demonstration purposes.
-
-## 👤 Author
-
-Created as a prototype for Nexora's AI-powered fashion recommendation system.
-
----
-
-**Note**: Remember to keep your `.env` file secure and never commit it to version control. Add `.env` to your `.gitignore` file.
