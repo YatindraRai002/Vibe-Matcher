@@ -54,18 +54,4 @@ Try these vibe queries:
 - "romantic and feminine date night outfit"
 - "casual vintage aesthetic"
 
-## 📈 Evaluation Criteria
-
-- **Code Quality (30%)**: Modular functions, type hints, error handling
-- **Accuracy/Eval (30%)**: Similarity metrics, threshold analysis (>0.7 = "good")
-- **Innovation (20%)**: Vibe-based search, semantic understanding
-- **Process (20%)**: Structured workflow, comprehensive testing
-
-## 🔧 Future Improvements
-
-1. **Pinecone/Weaviate Integration**: Scale to millions of products with vector databases
-2. **Hybrid Search**: Combine semantic search with filters (price, category, availability)
-3. **Multi-Modal Embeddings**: Add image-based search using CLIP
-4. **Fine-tuning**: Train on fashion-specific corpus for better accuracy
-5. **User Feedback Loop**: Implement thumbs up/down for continuous improvement
 
